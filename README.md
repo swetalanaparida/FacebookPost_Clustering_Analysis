@@ -1,3 +1,19 @@
 # FacebookPost_Clustering_Analysis
+This project demonstrates the application of clustering algorithms to group Facebook posts from Thai fashion and cosmetics retail sellers. The analysis is based on various features like reactions, comments, shares, and status types. The goal is to evaluate the performance of different clustering methods and derive insights from the data.
 
-This project demonstrates the use of clustering algorithms to group Facebook posts based on various features such as reactions, comments, and status type. The objective is to explore different clustering methods and evaluate their performance in terms of distinctiveness and quality of clusters.
+# Objective
+Prepare and clean the dataset by handling missing values, detecting and addressing outliers, and performing descriptive statistics and visualization.
+Apply clustering algorithms (K-Means, DBSCAN, and Agglomerative Clustering) on the dataset.
+Compare the clustering models using performance metrics like Silhouette Score, Calinski-Harabasz Index, and Davies-Bouldin Index.
+Provide insights based on the clustering results and evaluate the quality and distinctiveness of clusters.
+
+# Technologies Used
+- Python: Programming language used for the project.
+- Libraries:
+pandas for data manipulation.
+numpy for numerical operations.
+sklearn for clustering and model evaluation.
+matplotlib, seaborn for data visualization.
+scipy for outlier detection and statistical methods.
+
+
