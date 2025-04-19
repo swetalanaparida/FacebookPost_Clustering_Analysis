@@ -10,10 +10,10 @@ Provide insights based on the clustering results and evaluate the quality and di
 # Technologies Used
 - Python: Programming language used for the project.
 - Libraries:
-pandas for data manipulation.
-numpy for numerical operations.
-sklearn for clustering and model evaluation.
-matplotlib, seaborn for data visualization.
-scipy for outlier detection and statistical methods.
+  - pandas for data manipulation.
+  - numpy for numerical operations.
+  - sklearn for clustering and model evaluation.
+  - matplotlib, seaborn for data visualization.
+  - scipy for outlier detection and statistical methods.
 
 
